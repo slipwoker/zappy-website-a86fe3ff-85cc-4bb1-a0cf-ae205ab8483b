@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://lihi-nails-a86fe3ff.zappy5.app
+https://example.com
 מחפשת טיפוח ציפורניים ברמה הגבוהה ביותר? LIHI_NAILS מזמינה אותך להזמין תור בקלות ובמהירות לטיפול ella mila nail care מפנק. לחצי עכשיו לזמן האיכות שלך!
 
 ### שירותים
-https://lihi-nails-a86fe3ff.zappy5.app/services
+https://example.com/services
 ממניקור קלאסי ועד טיפולי ella and mila nail care מתקדמים — מגוון שירותי טיפוח ציפורניים מחכים לך ב-LIHI_NAILS. היכנסי עכשיו להתאהב מחדש בידיים שלך!
 
 ### אודות
-https://lihi-nails-a86fe3ff.zappy5.app/about
+https://example.com/about
 ב-LIHI_NAILS אנחנו חיים ונושמים ella mila nail care עם חומרים איכותיים כמו nail beauty supply. בואי לגלות את הסיפור שלנו ואיך נוכל להפוך כל ביקור לחוויה מעצימה.
 
 ### צור קשר
-https://lihi-nails-a86fe3ff.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על opi nail care או רוצה לקבוע תור מותאם אישית? צרי קשר עם LIHI_NAILS עוד היום, ונתאים לך את טיפול הציפורניים המושלם. אנחנו כאן בשבילך!
 
 ### תודה שפנית אלינו
-https://lihi-nails-a86fe3ff.zappy5.app/thank-you
+https://example.com/thank-you
 LIHI_NAILS - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://lihi-nails-a86fe3ff.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://lihi-nails-a86fe3ff.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://lihi-nails-a86fe3ff.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://lihi-nails-a86fe3ff.zappy5.app/contact
-- Endpoint: https://lihi-nails-a86fe3ff.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Beauty & Nail Care
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://lihi-nails-a86fe3ff.zappy5.app/sitemap.xml
-- Robots: https://lihi-nails-a86fe3ff.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://lihi-nails-a86fe3ff.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
